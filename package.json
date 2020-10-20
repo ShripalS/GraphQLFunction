@@ -1,0 +1,25 @@
+{
+  "name": "apollo-example",
+  "scripts": {
+    "test": "echo \"No tests yet...\""
+  },
+  "author": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": [],
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "apollo-server-azure-functions": "^2.18.2",
+    "apollo-server-express": "^2.18.2",
+    "apollo-server-koa": "^2.18.2",
+    "dotenv": "^8.2.0",
+    "graphql": "^15.3.0",
+    "graphql-relay": "^0.6.0",
+    "graphql-sequelize": "^9.4.0",
+    "koa": "^2.13.0",
+    "pg": "^8.4.1",
+    "pg-hstore": "^2.3.3",
+    "sequelize": "^6.3.5"
+  }
+}
